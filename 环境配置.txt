@@ -1,0 +1,12 @@
+先配置java环境：
+JAVA_HOME：jdk安装目录（E:\Java\jdk1.7.0）
+path：%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
+CLASSPATH：.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
+测试: java -version
+
+
+配置tomcat环境：
+CATALINA_HOME：tomcat安装目录（D:\apache-tomcat-7.0.65）
+CATALINA_BASE：tomcat安装目录（D:\apache-tomcat-7.0.65）
+
+
